@@ -4,5 +4,6 @@ public class Hello {
         System.out.println(a+b);
         System.out.println(a-b);
         System.out.println("Calculator");
+        System.out.println("Books for sale at Exo bookstore!! 50% Off!!");
     }
 }
