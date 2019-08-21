@@ -4,5 +4,6 @@ public class App {
         String string = "Hello Java from Area ";
         System.out.println(string + (6 + i));
         System.out.println("Aliens in Area 51");
+        System.out.println("Donald Trump works with Night King to buid a wall");
     }
 }
