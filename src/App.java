@@ -7,6 +7,6 @@ public class App {
         System.out.println("False rumours!!!! Ah damn");
         System.out.println("There are aliens here!! Let's be a happy community of aliens and humans!!!");
         System.out.println("Anime ki jai ho!!");
-        System.out.println("Donald Trump works with Night King to build a wall on Westeros");
+        System.out.println("Donald Trump is against the Night King to destory a wall on Westeros");
     }
 }
